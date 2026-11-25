@@ -1,0 +1,23 @@
+project:
+  name: "DSP Challenge"
+  group_id: "TODO"
+  topic: "TODO"
+  interface_version: "0.1.0"
+
+runtime:
+  language: "TODO"
+  entrypoint: "TODO"
+  command: "TODO"
+  max_runtime_seconds: null
+
+data:
+  sampling_rate_hz: null
+  units: "TODO"
+  baseline_generator_command: "TODO"
+  advanced_generator_command: "TODO"
+
+evaluation:
+  command: "TODO"
+  primary_metric: "TODO"
+  higher_is_better: null
+
