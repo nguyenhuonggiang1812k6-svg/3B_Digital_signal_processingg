@@ -1,7 +1,7 @@
 # Team information
 
-- Team ID:
-- Topic:
+- Team ID: 3B
+- Topic: CUAS
 - Current interface version:
 - Contact person:
 
